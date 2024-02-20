@@ -1,11 +1,22 @@
 
 README: COVID Dataset - Data Analytics Project
 
+Relevant Links:-
+Viz-https://public.tableau.com/app/profile/shubh.kamdar4191/viz/CovidProject_17079614457220/Dashboard1
+Dataset-https://ourworldindata.org/covid-deaths
+
 Project Overview:
 
 The COVID Dataset Data Analytics Project focuses on analyzing the impact of COVID-19 on various nations over a specific time period.
 This project utilizes a dataset comprising 15 million data points related to COVID-19 cases, deaths, testing, and other relevant factors. 
 The analysis aims to uncover insights into the spread of the virus, its effects on different regions, and trends over time.
+
+Files Included:
+
+README.md: This file providing an overview of the Covid Data Analytics Project.
+CovidExplore.sql: Perform exploratory data analysis (EDA) to understand the patterns and trends of COVID-19 cases and related metrics.
+Covid Project.twbx: Construct an interactive dashboard using Tableau to visualize and communicate key insights effectively.
+Tableau scripts.sql:SQL scripts to cut the data in such a way that Tableau does not have issues while we inset the data into it.
 
 Project Objectives:
 
