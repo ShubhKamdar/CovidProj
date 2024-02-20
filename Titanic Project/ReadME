@@ -34,6 +34,8 @@ Model Building: Trained various machine learning models such as logistic regress
 Conclusion: Based on the graph present at the end of the lr we can see which coefficients influenced the most in the survival of a passenger and our model accuracy
 was above 80% for all the different models implemented.
 
+Dataset: https://www.kaggle.com/datasets/rahulsah06/titanic?select=gender_submission.csv
+
 Author:
 
 Shubh Kamdar
