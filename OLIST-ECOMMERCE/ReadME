@@ -2,38 +2,53 @@
 README: OLIST Ecommerce Platform - Data Analytics Project
 
 Relavant links-
-Viz-//public.tableau.com/app/profile/shubh.kamdar4191/vizzes
+Viz-https://public.tableau.com/app/profile/shubh.kamdar4191/vizzes
 Data-https://www.kaggle.com/datasets/erak1006/brazilian-e-commerce-company-olist
 
 Project Overview:
 
-The OLIST Ecommerce Platform Data Analytics Project focuses on analyzing critical business metrics across five sectors: Performance Overview, Customer Behavior, Product Performance, Seller Performance, and Inventory Management. The project utilizes data from various sources to gain insights into the performance and dynamics of the OLIST ecommerce platform.
+OLIST is a brazilian ecommerce platform similar to Amazon.
+The OLIST Ecommerce Platform Data Analytics Project focuses on analyzing critical business metrics across five sectors: 
+Performance Overview
+Customer Behavior
+Product Performance
+Seller Performance
+Inventory Management
+The project utilizes data from various sources to gain insights into the performance and dynamics of the OLIST ecommerce platform.
 
 Project Objectives:
 
 Analyze key business metrics across five sectors to assess the performance and effectiveness of the OLIST ecommerce platform.
 Combine and integrate data from eight different datasets using Tableau Prep Builder to create a comprehensive dataset for analysis.
-Perform data transformations and feature engineering to enhance data quality and extract valuable insights.
+Perform data transformations and feature engineering to enhance data quality and extract valuable insights through Tableau Prep Builder.
 Create an interactive story using Tableau to visualize and communicate the impact of different factors on each sector's performance.
-Provide reasoning and insights into how and when each sector is affected by various factors, such as customer behavior, product trends, seller performance, and inventory management.
-Project Timeline:
+Provide reasoning and insights into how and when each sector is affected by various factors, such as customer behavior, product trends, seller performance
+and inventory management.
 
 Key Project Activities:
 
-Data Collection: Gather data from multiple sources related to OLIST ecommerce platform performance, customer behavior, product sales, seller metrics, and inventory management.
+Data Collection: Gather data from multiple sources related to OLIST ecommerce platform performance, customer behavior, product sales, seller metrics
+and inventory management.
 Data Integration: Combine and merge eight different datasets using Tableau Prep Builder to create a unified dataset for analysis.
 Data Transformation: Cleanse and preprocess the data, perform data transformations, and engineer features to improve data quality and extract meaningful insights.
+Extract: Create an output file stage to create an extract so the extract can be used to be inserted into Tableau
 Sector Analysis: Analyze critical business metrics for each sector, including performance overview, customer behavior, product performance, seller performance, and inventory management.
 Visualization: Develop interactive visualizations and dashboards using Tableau to present key insights and trends in each sector effectively.
 Storytelling: Create an interactive story in Tableau to showcase the impact of various factors on each sector's performance over time.
 Insights Generation: Derive actionable insights and recommendations based on the analysis to optimize OLIST's performance and enhance business operations.
+
 Instructions for Viewing the Interactive Story:
 
 Access the Tableau dashboard/story by clicking on the provided link or opening the Tableau file (.twbx) included in the project repository.
+Most of the ways to use the Story are present in te boxes beside the files so that there would not be a need for a presenter.
 Navigate through the different tabs and visualizations to explore insights into each sector's performance and dynamics.
-Interact with the dashboard elements such as filters, tooltips, and parameters to customize the view and gain deeper insights into specific metrics.
+Interact with the dashboard and story elements such as filters, tooltips, and parameters to customize the view and gain deeper insights into specific metrics.
 
-Project Contributors:
+Authors Note:
+The actual dataset is very big hence there were issues uploading the packaged workbook here but with the help of the flowfile and the dataset links the necesaary
+dataset extract can be created to be inserted in the Vizualization file.
+
+Author:
 
 Shubh Kamdar
 
