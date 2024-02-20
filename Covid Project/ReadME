@@ -1,1 +1,44 @@
 
+README: COVID Dataset - Data Analytics Project
+
+Project Overview:
+
+The COVID Dataset Data Analytics Project focuses on analyzing the impact of COVID-19 on various nations over a specific time period.
+This project utilizes a dataset comprising 15 million data points related to COVID-19 cases, deaths, testing, and other relevant factors. 
+The analysis aims to uncover insights into the spread of the virus, its effects on different regions, and trends over time.
+
+Project Objectives:
+
+Use SQL Server Import and Export wizard to load the Data into SSMS.
+Perform exploratory data analysis (EDA) to understand the patterns and trends of COVID-19 cases and related metrics.
+Utilize SQL queries to extract essential data from the dataset for further analysis.
+Construct an interactive dashboard using Tableau to visualize and communicate key insights effectively.
+Investigate the impact of COVID-19 on various nations, including factors such as infection rates, mortality rates, testing strategies, and vaccination efforts.
+Identify patterns, correlations, and anomalies in the data to inform decision-making and public health strategies.
+Use SQL to cut the data in such a way that Tableau does not have issues while we inset the data into it.
+Create a Tableau Dashboard to present the insights.
+
+Dataset: https://ourworldindata.org/covid-deaths
+
+Key Project Activities:
+
+Data Collection: Obtain the COVID-19 dataset containing relevant information such as cases, deaths, testing, and vaccination data for different countries.
+Exploratory Data Analysis (EDA): Analyze the dataset using SQL queries to identify trends, patterns, and correlations in COVID-19 data across nations and over time.
+Data Extraction: Utilize SQL queries in SQL Server Management Studio (SQLSMS) to extract essential data subsets required for visualization and analysis.
+Dashboard Creation: Develop an interactive dashboard using Tableau to visualize the extracted data insights effectively.
+Visualization: Create visualizations to represent COVID-19 metrics dynamically.
+Insights Generation: Derive actionable insights from the data analysis to understand the impact of COVID-19 on different nations and inform decision-making processes.
+Documentation: Document the analysis methodology, findings, and insights obtained from the project for reference and future analysis.
+Instructions for Viewing the Dashboard:
+
+Access the Tableau dashboard by clicking on the provided link or opening the Tableau file (.twb or .twbx) included in the project repository or check the link given 
+below to directly view th vizualization-https://public.tableau.com/app/profile/shubh.kamdar4191/viz/CovidProject_17079614457220/Dashboard1.
+Navigate through the different tabs and visualizations to explore various aspects of the COVID-19 data analysis.
+
+Author:
+
+Shubh Kamdar
+
+Contact Information:
+
+sk10790@nyu.edu
