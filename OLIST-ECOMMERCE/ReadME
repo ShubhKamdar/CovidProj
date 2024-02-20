@@ -16,6 +16,15 @@ Seller Performance
 Inventory Management
 The project utilizes data from various sources to gain insights into the performance and dynamics of the OLIST ecommerce platform.
 
+Files Included:
+
+README.md: This file providing an overview of the OLIST Ecommerce Platform Data Analytics Project.
+Final.twbx: Construct an interactive dashboard using Tableau to visualize and communicate key insights effectively.
+FlowFile.tfl: Combine and integrate data from eight different datasets, perform data transformations and feature engineering to enhance data quality
+and extract valuable insights, create an output file stage to create an extract so the extract can be used to insert the data into Tableau.
+
+Dataset -https://www.kaggle.com/datasets/erak1006/brazilian-e-commerce-company-olist
+
 Project Objectives:
 
 Analyze key business metrics across five sectors to assess the performance and effectiveness of the OLIST ecommerce platform.
@@ -32,7 +41,8 @@ and inventory management.
 Data Integration: Combine and merge eight different datasets using Tableau Prep Builder to create a unified dataset for analysis.
 Data Transformation: Cleanse and preprocess the data, perform data transformations, and engineer features to improve data quality and extract meaningful insights.
 Extract: Create an output file stage to create an extract so the extract can be used to be inserted into Tableau
-Sector Analysis: Analyze critical business metrics for each sector, including performance overview, customer behavior, product performance, seller performance, and inventory management.
+Sector Analysis: Analyze critical business metrics for each sector, including performance overview, customer behavior, product performance, seller performance
+and inventory management.
 Visualization: Develop interactive visualizations and dashboards using Tableau to present key insights and trends in each sector effectively.
 Storytelling: Create an interactive story in Tableau to showcase the impact of various factors on each sector's performance over time.
 Insights Generation: Derive actionable insights and recommendations based on the analysis to optimize OLIST's performance and enhance business operations.
