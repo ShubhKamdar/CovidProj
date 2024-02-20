@@ -34,18 +34,6 @@ Model Building: Trained various machine learning models such as logistic regress
 Conclusion: Based on the graph present at the end of the lr we can see which coefficients influenced the most in the survival of a passenger and our model accuracy
 was above 80% for all the different models implemented.
 
-Instructions for Running the Project:
-
-Ensure Python and Jupyter Notebook are installed on your system.
-Clone the project repository to your local machine.
-Navigate to the project directory and install dependencies using the command: pip install -r requirements.txt.
-Open the Jupyter Notebook Titanic_Data_Analysis.ipynb to view and run the code.
-Follow the instructions and comments within the notebook to execute each step of the analysis.
-Review the generated visualizations, model performance, and conclusions derived from the analysis.
-References:
-
-Include any external resources, libraries, or datasets used in the project along with relevant citations.
-
 Author:
 
 Shubh Kamdar
