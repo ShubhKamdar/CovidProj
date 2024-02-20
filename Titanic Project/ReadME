@@ -1,1 +1,55 @@
 
+README: Titanic Data Science Project
+
+Project Overview:
+
+The Titanic Data Science Project aims to analyze the Titanic passenger dataset to uncover insights into the factors that influenced passenger survival.
+This dataset contains information about passengers on board the Titanic, including details such as passenger class, age, sex, and survival status.
+
+Project Objectives:
+
+Explore the Titanic dataset to understand its structure and variables.
+Clean and preprocess the dataset to handle missing values and outliers.
+Perform exploratory data analysis (EDA) to uncover patterns and relationships within the data.
+Build predictive models to determine factors influencing passenger survival.
+Evaluate model performance and select the best-performing model.
+Draw conclusions and insights from the analysis to understand the factors affecting passenger survival on the Titanic.
+
+Files Included:
+
+README.md: This file providing an overview of the Titanic Data Science Project.
+Titanic.ipynb: Colab Notebook containing the code for data analysis, visualization, and modeling.
+Titanic Changes.ipynb: Colab Notebook containing the code for data analysis, visualization, and modeling with the new feature engineering part in 'Fare' and only 
+consists the LR model
+Copy of Titanic Presentation:Consists of the presentation to convey key insights regarding the project that was implemented.
+
+
+Project Structure:
+
+Data Cleaning: Handled missing values, filled in the missing values where possible and added a new type of Cabin for people who were without a cabin in the Titanic
+Exploratory Data Analysis (EDA): Explored the relationship between the survival of an individual with the different types of data provided in the dataset.
+Feature Engineering: Created new features from existing features such as CabinLetter and CabinNumber, Fare based on how rich a passenger was, the title of a specific passenger, based on their ticket type.
+The fare feature engineering is in the titanic changes file as after implementing it the model accuracy actually reduced.
+Model Building: Trained various machine learning models such as logistic regression, SVM and random forest to predict passenger survival.
+Conclusion: Based on the graph present at the end of the lr we can see which coefficients influenced the most in the survival of a passenger and our model accuracy
+was above 80% for all the different models implemented.
+
+Instructions for Running the Project:
+
+Ensure Python and Jupyter Notebook are installed on your system.
+Clone the project repository to your local machine.
+Navigate to the project directory and install dependencies using the command: pip install -r requirements.txt.
+Open the Jupyter Notebook Titanic_Data_Analysis.ipynb to view and run the code.
+Follow the instructions and comments within the notebook to execute each step of the analysis.
+Review the generated visualizations, model performance, and conclusions derived from the analysis.
+References:
+
+Include any external resources, libraries, or datasets used in the project along with relevant citations.
+
+Author:
+
+Shubh Kamdar
+
+Contact Information:
+
+sk10790@nyu.edu
